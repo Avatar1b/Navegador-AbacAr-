@@ -53,7 +53,6 @@
       padding: 10px 15px;
       border-radius: 10px;
     }
-
     nav.menu {
       position: fixed;
       top: 0;
